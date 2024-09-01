@@ -19,12 +19,6 @@ This home-lab is focussed on setting up Wireshark Home-Lab and getting hands-on 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-
-
-*Ref 1: Network Diagram*
+-Drag and drop screenshots here or use imgur and reference them using imgsrc
+-Every screenshot wiil have some text explaining what the screenshot is about
